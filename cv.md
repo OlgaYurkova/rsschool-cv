@@ -8,9 +8,8 @@
    4. Git
    5. Operation and communication tools (JIRA/Confluence)
 5. 
-6. 
-7. HTML developer (2+ years experience)
-8. 1. BSU, Faculty of Radiophysics and Computer Technologies(2019)
+6. HTML developer (2+ years experience)
+7. 1. BSU, Faculty of Radiophysics and Computer Technologies(2019)
    2. Myfreedom. Frontend-developer. JS. React
    3. Freecodecamp, html academy
-9. A2
+8. A2
